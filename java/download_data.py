@@ -27,7 +27,6 @@ def write_local(file_name, data):
             file.write(json.dumps(obj) + "\n")
 
 
-# For some reason, the spacing/tabbing in python is awful, so manually fix this
 if __name__ == "__main__":
 
     # Download mbxp data, splits into train and test
