@@ -1,0 +1,11 @@
+argparse
+datasets
+numpy
+openai
+peft
+python-dotenv
+torch
+tqdm
+transformers
+trl
+wandb

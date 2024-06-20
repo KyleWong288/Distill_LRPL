@@ -1,0 +1,13 @@
+.env
+*/analysis/counts/
+*/analysis/rationales/
+**/data/
+*/eval/
+*/finetuned_models/
+**/node_modules/
+*/output/
+*/repair/
+**/__pycache__
+**package.json
+**package-lock.json
+**wandb/
